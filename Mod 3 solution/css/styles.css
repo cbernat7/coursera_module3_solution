@@ -104,6 +104,17 @@ h2 {
   opacity: .8;
 
 }
+.panel-footer .container {
+  color: black;
+  background-color: darkgray;
+  position: relative;
+}
+footer #container #row {
+  position: absolute;
+  align-content: center;
+
+}
+
 #quotes {
   font-style: italic;
 }
